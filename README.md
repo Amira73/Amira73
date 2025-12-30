@@ -47,6 +47,7 @@ I have developed dynamic, user-centric interfaces for applications serving thous
 </div>
 
 
+
 ## 🔗 Connect with Me
 
 <div align="center">
